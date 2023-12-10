@@ -10,4 +10,8 @@
 
 ## 使用方法
 
-```mvl.py "C:\path\image001.jpg"```
+[Default Programs Editor](https://defaultprogramseditor.com/)で関連付けを変更してください。
+
+```"C:\Users\you\AppData\Local\Programs\Python\Python3xx\pythonw.exe" "C:\MangaLuncher\mvl.py" "%1"```
+
+![defaultprogramseditor](https://github.com/jarupxx/MangaLuncher/assets/20138367/1d9c65be-3271-464f-8221-04c6d74e9d04)
