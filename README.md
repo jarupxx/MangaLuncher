@@ -10,6 +10,18 @@
 
 ```image_extensions = ['.avif', '.bmp', '.gif', '.heic', '.jpeg', '.jpg', '.png', '.webp']```
 
+次に左開きとするパスを指定してください。
+
+```ltr_paths = ['左開き', 'ltr']```
+
+最後に見開き方向に対応する設定ファイルを指定してください。
+
+```ltr_settings = "C:\\path\\to\\viewer\\settings\\Customltr.ini"```
+
+```rtl_settings = "C:\\path\\to\\viewer\\settings\\Customrtl.ini"```
+
+```settings_path = "C:\\path\\to\\viewer\\settings\\Settings.ini"```
+
 ## 使用方法
 
 [Default Programs Editor](https://defaultprogramseditor.com/)で関連付けを変更してください。
