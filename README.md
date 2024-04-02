@@ -17,3 +17,7 @@
 ```"C:\Users\you\AppData\Local\Programs\Python\Python3xx\pythonw.exe" "C:\MangaLuncher\mvl.py" "%1"```
 
 ![defaultprogramseditor](https://github.com/jarupxx/MangaLuncher/assets/20138367/1d9c65be-3271-464f-8221-04c6d74e9d04)
+
+## 見開き方向を調整するランチャー
+
+https://github.com/jarupxx/MangaLuncher/tree/ltr_settings
